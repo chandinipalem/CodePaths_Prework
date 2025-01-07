@@ -17,6 +17,7 @@ The following **required** functionality is completed:
 
 
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+https://imgur.com/a/7pzRrps.gif
 
 ## App Brainstorming (Step 4)
 App: Spotify
